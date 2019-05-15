@@ -9,7 +9,7 @@ Installation :
 - Installer Angular : https://angular.io/guide/quickstart
 	- Taper npm install -g @angular/cli dans l'invite de commande
 
-- Comment lancer le projet après l'avoir récupérer ? 
+- Comment lancer le projet après l'avoir récupéré ? 
 	- Se placer dans le repertoire du projet avec l'invite de commande 
 	- Taper npm install dans l'invite de commande 
 	- Taper ng serve pour lancer le serveur 
